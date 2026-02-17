@@ -73,6 +73,7 @@ cd proud-firefly-5d44
 npx wrangler deploy
 
 Wrangler outputs a *.workers.dev URL.
+https://proud-firefly-5d44.miguelrodriguesdev.workers.dev/
 
 ---
 

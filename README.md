@@ -1,4 +1,4 @@
-# cf_ai_assigment
+# cf_ai_assignment
 
 Minimal AI-powered chat app using:
 
